@@ -36,6 +36,7 @@
 
 
 I'm a 6th year Ph.D. candidate in the Cognitive Sciences department at the University of California, San Diego. 
+
 <!-- I'm a 2nd year **DPhil student in Machine Learning at the University of Oxford**, supervised by Jakob Foerster and focusing on AI Security, Safety, and Interpretability. I'm best known for my **NeurIPS 2025 Spotlight paper AgentBreeder**, which explores evolutionary automated red team and blue team scaffold generation.
 
 I'm currently working on **[Infusion](https://arxiv.org/abs/2602.09987)** - a framework for shaping model behavior by editing training data via influence functions. I'm participating in **Neel Nanda's MATS 10.0 Exploration Phase** and recently served as a **Teaching Assistant for ARENA 7.0** (Mechanistic Interpretability week).
