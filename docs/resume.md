@@ -7,46 +7,16 @@
 <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">University of Oxford</span>
-      <span class="timeline-role">DPhil in Machine Learning</span>
-      <span class="timeline-dates">Oct 2024 – <strong class="text-accent">Present</strong></span>
+      <span class="timeline-org">University of California, San Diego</span>
+      <span class="timeline-role">PhD candidate in Cognitive Science</span>
+      <span class="timeline-dates">Sept 2020 – <strong class="text-accent">Present</strong></span>
     </div>
-    <div class="timeline-desc">AI Security and Safety research supervised by Jakob Foerster.</div>
+    <div class="timeline-desc">Cognitive neuroscience research, working under the supervision of Dr. Bradley Voytek</div>
   </div>
 
-  <!-- <div class="timeline-item">
-    <span class="timeline-dot"></span>
-    <div class="timeline-header">
-      <span class="timeline-org">Cohere</span>
-      <span class="timeline-role">Intern of Technical Staff</span>
-      <span class="timeline-dates">Mar 2026 – <strong class="text-accent">Upcoming</strong></span>
-    </div>
-    <div class="timeline-meta">London, UK • Pretraining Team</div>
-    <div class="timeline-desc">Exploring more efficient Influence Functions for AI Security applications.</div>
-  </div> -->
 
-  <div class="timeline-item">
-    <span class="timeline-dot"></span>
-    <div class="timeline-header">
-      <span class="timeline-org">MATS 10.0</span>
-      <span class="timeline-role">Neel Nanda's Exploration Phase</span>
-      <span class="timeline-dates">Feb 2026 – Mar 2026</span>
-    </div>
-    <div class="timeline-meta">London, UK</div>
-    <div class="timeline-desc">Participating in 5-week Mechanistic Interpretability exploration phase.</div>
-  </div>
 
-  <div class="timeline-item">
-    <span class="timeline-dot"></span>
-    <div class="timeline-header">
-      <span class="timeline-org">ARENA 7.0</span>
-      <span class="timeline-role">Teaching Assistant</span>
-      <span class="timeline-dates">Jan 2026</span>
-    </div>
-    <div class="timeline-meta">London, UK • Mech Interp Week</div>
-    <div class="timeline-desc">TA for the Mechanistic Interpretability week following running a successful hackathon for ARENA 6.0.</div>
-  </div>
-
+<!-- 
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
@@ -111,4 +81,4 @@
     </div>
     <div class="timeline-meta">First Class • Academic Scholarship</div>
   </div>
-</div>
+</div> -->

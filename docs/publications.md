@@ -1,6 +1,6 @@
 # Select Publications
 
-## Recent
+#### Recent
 
 <div class="publication-card">
     <div class="publication-image">
@@ -23,7 +23,7 @@
     </div>
 </div>
 
-## Before 2025
+#### Before 2025
 
 <div class="publication-card">
     <div class="publication-image">

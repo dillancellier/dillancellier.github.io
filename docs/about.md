@@ -35,7 +35,7 @@
 </div>
 
 
-I'm a 6th year Ph.D. candidate in the Cognitive Sciences department at the University of California, San Diego. 
+Hello! I'm a 6th year Ph.D. candidate in the Cognitive Sciences department at the University of California, San Diego. My research focuses on studying the neural signatures of temporal integration, context, and cognitive control. I am fascinated by how our internal models of our environments are constructed and evolve across time.  These internal models then shape our behavior, which in turn changes our environment. In a very big-picture sense, I seek to understand how this cognitive model-action loop is enabled and constrained by the neural architecture within and between brain regions. I primarly use electrophysiological data (and mostly in humans) to chip away at these questions. Whenever I'm not in the lab, you can find me taking long walks at the beach, admiring the sea lions in La Jolla, or painting.   
 
 <!-- I'm a 2nd year **DPhil student in Machine Learning at the University of Oxford**, supervised by Jakob Foerster and focusing on AI Security, Safety, and Interpretability. I'm best known for my **NeurIPS 2025 Spotlight paper AgentBreeder**, which explores evolutionary automated red team and blue team scaffold generation.
 
