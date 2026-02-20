@@ -1,6 +1,6 @@
-# Publications
+# Select Publications
 
-## 2025
+## Recent
 
 <div class="publication-card">
     <div class="publication-image">
@@ -19,6 +19,31 @@
         <div class="publication-tags">
             <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12132356/" class="tag tag-arxiv">BIORXIV</a>
             <a href="https://voyteklab.com/timescale-methods/" class="tag tag-github">GITHUB</a>
+        </div>
+    </div>
+</div>
+
+## Before 2025
+
+<div class="publication-card">
+    <div class="publication-image">
+        <img src="assets/decision_tree.jpg" alt="thalhi publication">
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="https://www.jneurosci.org/content/42/38/7276.abstract" class="publication-link">
+                Dynamics of Hierarchical Task Representations
+            </a>
+        </h3>
+        <div class="publication-venue">Journal of Neuroscience</div>
+        <div class="publication-authors">Dillan Cellier, Issac Petersen, Kai Hwang</div>
+        <div class="publication-year">2022</div>
+        <div class="publication-details"> 
+        Task representations are often hierarchical in nature-- that is, rules are set according to a specific context, and when that context changes, the rules change along with it. This type of rule structure can be mapped out in a decision tree, where a series of if-then statements help you determine the ultimate response. In this study, we examined the neural oscillations that are most present during moments when someone is switching from one rule context (one branch of the decision tree) to another. We found evidence supporting the hypothesis that task rules are indeed represented hierarchically, where high-level information about the context is encoded in a broad range of low-frequency EEG activity (delta to beta-band), and interacts with lower-level information such as that of the task-relevant feature and response rule.   
+        </div>
+        <div class="publication-tags">
+            <a href="https://doi.org/10.1523/JNEUROSCI.0233-22.2022" class="tag tag-doi">DOI</a>
+            <a href="https://github.com/HwangLabNeuroCogDynamics/TaskRep" class="tag tag-github">GITHUB</a>
         </div>
     </div>
 </div>
